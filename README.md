@@ -21,10 +21,10 @@ Atualmente, estou aprimorando minhas habilidades em Java e aplicando conceitos a
 Estou constantemente explorando novos conceitos e recursos na área de desenvolvimento. 
 
 💡 **Citação Favorita:**
-"Mais uma vez na luta
- Na última grande batalha que jamais vencerei
- Viver e morrer nesse dia
- Viver e morrer nesse dia"
+"Mais uma vez na luta\n
+ Na última grande batalha que jamais vencerei\n
+ Viver e morrer nesse dia\n
+ Viver e morrer nesse dia"\n
               - The Prey
 
 ---
