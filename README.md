@@ -19,7 +19,7 @@ Atualmente, estou aprimorando minhas habilidades em Java e aplicando conceitos a
 
 📚 **Aprendizado Contínuo:**
 Estou constantemente explorando novos conceitos e recursos na área de desenvolvimento. 
----
+
 <!--
 **miershooptier0/miershooptier0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
