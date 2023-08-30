@@ -13,7 +13,7 @@ Atualmente, estou aprimorando minhas habilidades em Java e aplicando conceitos a
 🛠️ **Tecnologias e Habilidades:**
 - Linguagens: Java, SQL.
 - Frameworks: Spring Boot.
-- Ferramentas: Git, IntelliJ IDEA.
+- Ferramentas: Git, Eclipse IDE, IntelliJ IDEA.
 - Banco de Dados: MySQL.
 - Conceitos: APIs RESTful, arquitetura MVC.
 
