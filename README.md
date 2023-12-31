@@ -3,7 +3,7 @@
 Sou um entusiasta de desenvolvimento de software no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas. Minha paixão está no mundo do backend e na criação de soluções robustas e eficientes usando a linguagem Java.
 
 🌟 **Interesses:**
-- Desenvolvimento de backend e infraestrutura de software.
+- Desenvolvimento backend e infraestrutura de software.
 - Explorar a linguagem Java e suas infinitas possibilidades.
 - Aprender sobre boas práticas de arquitetura de software e design patterns.
 
