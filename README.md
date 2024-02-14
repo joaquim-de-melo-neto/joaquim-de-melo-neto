@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 👋
 
-Sou um entusiasta de desenvolvimento de software no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas. Minha paixão está no mundo do backend e na criação de soluções robustas e eficientes usando a linguagem Java.
+Sou um entusiasta de desenvolvimento de software no quarto semestre do curso de Análise e Desenvolvimento de Sistemas. Minha paixão está no mundo do backend e na criação de soluções robustas e eficientes usando a linguagem Java.
 
 🌟 **Interesses:**
 - Desenvolvimento backend e infraestrutura de software.
