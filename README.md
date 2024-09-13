@@ -11,9 +11,9 @@ Sou um entusiasta de desenvolvimento de software no quarto semestre do curso de 
 Atualmente, estou aprimorando minhas habilidades em Java e aplicando conceitos aprendidos em projetos práticos. Estou focado em construir uma base sólida em desenvolvimento backend, com ênfase na eficiência, escalabilidade e segurança.
 
 🛠️ **Tecnologias e Habilidades:**
-- Linguagens: Java, SQL.
+- Linguagens: HTML, CSS, Java, SQL.
 - Frameworks: Spring Boot.
-- Ferramentas: Git, Eclipse IDE, IntelliJ IDEA.
+- Ferramentas: Git, Docker.
 - Banco de Dados: MySQL.
 - Conceitos: APIs RESTful, arquitetura MVC.
 
