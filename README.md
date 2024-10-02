@@ -2,19 +2,16 @@
 
 Minha paixão está no mundo do backend e na criação de soluções robustas e eficientes usando a linguagem Java.
 
-🌟 **Interesses:**
+🌟 **Interesses**
 - Desenvolvimento backend e arquitetura de software.
 - Explorar a linguagem Java e suas infinitas possibilidades.
 - Aprender sobre boas práticas de arquitetura de software e design patterns.
+---
+🛠️ **Tecnologias e Habilidades**
+| **Linguagens** | **Frameworks** | **Ferramentas** | **Database** | **Cloud** | **CI/CD** |
+| :---: | :---: | :---: | :---: | :---: | :---: | 
+![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=spring,angular&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=git,docker&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark) |
 
-🛠️ **Tecnologias e Habilidades:**
-- Linguagens: HTML, CSS, Java, SQL.
-- Frameworks: Angular, Spring Boot.
-- Cloud: Google Cloud Plataform.
-- Ferramentas: Git, Docker.
-- Banco de Dados: MySQL.
-- CI/CD: Github Actions.
-- Conceitos: APIs RESTful, arquitetura MVC.
 <!--
 - 🔭 I’m currently working on ...
 - ☕ I’m currently learning Java language
