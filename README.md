@@ -7,7 +7,7 @@ Minha paixão está no mundo do backend e na criação de soluções robustas e 
 - Explorar a linguagem Java e suas infinitas possibilidades.
 - Aprender sobre boas práticas de arquitetura de software e design patterns.
 ---
-🛠️ **Tecnologias e Habilidades**
+🛠️ **Tecnologias**
 | **Linguagens** | **Frameworks** | **Ferramentas** | **Database** | **Cloud** | **CI/CD** |
 | :------------: | :------------: | :-------------: | :----------: | :-------: | :-------: | 
 |![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=spring,angular&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=git,docker&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark) |
