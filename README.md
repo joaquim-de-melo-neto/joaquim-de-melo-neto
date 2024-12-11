@@ -10,7 +10,7 @@ Minha paixão está no mundo do backend e na criação de soluções robustas e 
 ### 🛠️ **Tecnologias**
 | **Linguagens** | **Frameworks** | **Ferramentas** | **Database** | **Cloud** | **CI/CD** |
 | :------------: | :------------: | :-------------: | :----------: | :-------: | :-------: | 
-|![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=spring,angular&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=git,docker&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=mysql,oracle&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark) |
+|![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=spring,angular&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=git,docker&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark) |
 
 <!--
 - 🔭 I’m currently working on ...
