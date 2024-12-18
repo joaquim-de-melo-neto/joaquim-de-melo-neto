@@ -8,7 +8,7 @@ Minha paixão está no mundo do backend e na criação de soluções robustas e 
 - Aprender sobre boas práticas de arquitetura de software e design patterns.
 
 ### 🛠️ **Tecnologias**
-| **Linguagens** | **Frameworks** | **Ferramentas** | **Database** | **Cloud** | **CI/CD** |
+| **LINGUAGENS** | **FRAMEWORKS** | **FERRAMENTAS** | **DATABASE** | **CLOUD** | **CI/CD** |
 | :------------: | :------------: | :-------------: | :----------: | :-------: | :-------: | 
 |![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=spring,angular&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=git,docker&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="image" width="50" height="auto"> | ![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark) | ![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark) |
 
